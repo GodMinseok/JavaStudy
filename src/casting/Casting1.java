@@ -7,6 +7,7 @@ public class Casting1 {
         long longValue;
         double doubleValue;
 
+
         longValue = intValue; //int -> long
         System.out.println("longValue = " + longValue);
 
