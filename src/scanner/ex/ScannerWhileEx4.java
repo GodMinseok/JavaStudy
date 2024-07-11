@@ -38,6 +38,7 @@ public class ScannerWhileEx4 {
 
             } else {
                 System.out.println("올바른 옵션을 선택해주세요.");
+
             }
         }
     }
