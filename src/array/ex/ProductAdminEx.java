@@ -29,6 +29,7 @@ public class ProductAdminEx {
                 productPrices[productCount] = scanner.nextInt();
 
                 productCount++;
+
             } else if (menu == 2) {
                 if (productCount == 0) {
                     System.out.println("등록된 상품이 없습니다");
